@@ -1,0 +1,17 @@
+h1,
+div {
+    text-align: center;
+}
+
+img {
+    width: 1024px;
+    height: auto;
+    display: block;
+    border: 8px solid #000000;
+    margin: 0 auto;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
